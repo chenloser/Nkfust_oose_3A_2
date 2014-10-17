@@ -35,8 +35,12 @@
 #個別使用案例圖#
 ##美食資料更動##
 ![](http://i.imgur.com/pL9Ulfj.jpg)
+##地區縣市選擇##
+
 ##查詢美食地點##
 ![](http://i.imgur.com/lTDhlKM.jpg)
+## 路徑分析 ##
+![](http://i.imgur.com/FRCIWvN.jpg)
 
 
 #使用案例的名詞與概念類別列舉表#
