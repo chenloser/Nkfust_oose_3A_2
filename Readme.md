@@ -35,3 +35,5 @@
 #個別使用案例圖#
 ##美食資料更動##
 ![](http://i.imgur.com/pL9Ulfj.jpg)
+##查詢美食地點##
+![](http://i.imgur.com/lTDhlKM.jpg)
