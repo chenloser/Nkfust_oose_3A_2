@@ -23,5 +23,15 @@
 |3.查詢使用者及各地區的美食位置|3.查詢美食地點|
 |4.獲得拜訪各個美食地點的最佳路徑|4.路徑分析|
 
-##個別使用案例##
+#個別使用案例#
 ![](http://i.imgur.com/7cXa92D.jpg)
+
+![](http://i.imgur.com/jcpfqO2.jpg)
+
+![](http://i.imgur.com/6dGkA14.jpg)
+
+![](http://i.imgur.com/EE9UmRC.jpg)
+
+#個別使用案例圖#
+##美食資料更動##
+![](http://i.imgur.com/pL9Ulfj.jpg)
